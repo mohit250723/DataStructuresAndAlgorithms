@@ -12,7 +12,6 @@ public class LinearSearch {
 		
 		int[] arr= {10,2,11,7,4,3,9};
 		int target = 3;
-		
 		int targetIndex= linearSearchAlgo(arr,target);
 		if(targetIndex != -1) {
 		System.out.print("Target : "+target+" is present at array index "+ targetIndex);;
