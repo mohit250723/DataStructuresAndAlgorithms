@@ -16,8 +16,9 @@ public class LinkedListOperationClient {
 	
 	System.out.println("*********************************");
 	
-	linkedlist.remove(0);
+	linkedlist.remove(4);
 	linkedlist.show();	 
+	
 	}
 
 }
